@@ -1,3 +1,3 @@
-# m2i-jour1
+# m2i-jour1 - LOCAL
 
-Fichier README
+Fichier README LOCAL
