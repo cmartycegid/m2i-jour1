@@ -1,3 +1,3 @@
-# m2i-jour1 - LOCAL
+# m2i-jour1 -- GITHUB
 
-Fichier README LOCAL
+Fichier README GITHUB
